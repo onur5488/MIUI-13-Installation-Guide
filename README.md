@@ -14,7 +14,7 @@ https://forum.turkdevs.com/yonlendirme?to=aHR0cHM6Ly94aWFvbWlmaXJtd2FyZXVwZGF0ZX
 
 3-) İndirdiğimiz merlin_global_images_V13.0.2.0.SJOMIXM_20221013.0000.00_12.0_global.tgz isimli dosyayı klasöre çıkarıyoruz. ve aşağıdaki linkteki dosyayı indiriyoruz.
 
-https://disk.yandex.com.tr/d/GrkDf0q6CA9AYw
+https://github.com/onur5488/MIUI-13-Installation-Guide
 
 4-)İndirdiğimiz dosyayı images adlı klasörün içine atıyoruz ve gelen ekranda hedefteki dosyayı değiştire tıklıyoruz.
 
